@@ -1,0 +1,43 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.movie {
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  background-color: rgb(252, 248, 248);
+  width: 500px;
+  height: fit-content;
+  margin: 50px;
+}
+
+.review {
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  background-color: rgb(240, 150, 150);
+  width: 500px;
+  height: fit-content;
+  margin: 50px;
+}
+
+button {
+  padding: 10px;
+  border: 0;
+  background-color: rgb(53, 233, 233);
+  cursor: pointer;
+}
+
+button:hover {
+  box-shadow: 0 0 5px 2px aqua;
+}

@@ -1,0 +1,13 @@
+
+
+.title {
+    padding: 5px 10px;
+    color: rgb(84, 81, 81);
+    /* background-color: antiquewhite; */
+  }
+  
+  .tooltip {
+    color: rgb(12, 167, 12);
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+  }
